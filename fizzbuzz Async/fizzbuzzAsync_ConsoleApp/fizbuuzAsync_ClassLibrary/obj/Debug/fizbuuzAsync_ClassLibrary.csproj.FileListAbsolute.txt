@@ -1,0 +1,6 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizbuuzAsync_ClassLibrary\bin\Debug\fizzbuzzAsync_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizbuuzAsync_ClassLibrary\bin\Debug\fizzbuzzAsync_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizbuuzAsync_ClassLibrary\obj\Debug\fizbuuzAsync_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizbuuzAsync_ClassLibrary\obj\Debug\fizbuuzAsync_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizbuuzAsync_ClassLibrary\obj\Debug\fizzbuzzAsync_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizbuuzAsync_ClassLibrary\obj\Debug\fizzbuzzAsync_ClassLibrary.pdb

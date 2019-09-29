@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\bin\Debug\fizzbuzzAsync_ConsoleApp.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\bin\Debug\fizzbuzzAsync_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\bin\Debug\fizzbuzzAsync_ConsoleApp.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\bin\Debug\fizzbuzzAsync_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\bin\Debug\fizzbuzzAsync_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\obj\Debug\fizzbuzzAsync_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\obj\Debug\fizzbuzzAsync_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\obj\Debug\fizzbuzzAsync_ConsoleApp.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\obj\Debug\fizzbuzzAsync_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\fizzbuzz Async\fizzbuzzAsync_ConsoleApp\fizzbuzzAsync_ConsoleApp\obj\Debug\fizzbuzzAsync_ConsoleApp.pdb
